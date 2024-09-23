@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-// Moore's Voting Algorithm
+// Moore's Voting Algorithm to find majority element
 
 class Solution {
     public:
