@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "singlenumber": "cpp"
+        "singlenumber": "cpp",
+        "vector": "cpp"
     }
 }
